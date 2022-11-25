@@ -8,7 +8,7 @@
 </h1>
 
 <p align="justify">
-Share your secret or text with a link
+Share your secret or text with a link <a href="https://scrt.ra8.ir" title="scrt.ra8.ir">(scrt.ra8.ir)</a>
 <p>
 
 ## Features
