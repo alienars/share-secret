@@ -278,6 +278,22 @@
                         <span class="title-font font-medium">Without A Trace</span>
                     </div>
                 </div>
+                <div class="p-2 sm:w-1/2 w-full">
+                    <div class="bg-gray-700 rounded flex p-4 h-full items-center text-gray-900 hover:text-indigo-500 transition ease-in-out">
+                        <svg class="text-indigo-500 w-6 h-6 flex-shrink-0 mr-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"></path>
+                        </svg>
+                        <span class="title-font font-medium">Open Source</span>
+                    </div>
+                </div>
+                <div class="p-2 sm:w-1/2 w-full">
+                    <div class="bg-gray-700 rounded flex p-4 h-full items-center text-gray-900 hover:text-indigo-500 transition ease-in-out">
+                        <svg class="text-indigo-500 w-6 h-6 flex-shrink-0 mr-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z"></path>
+                        </svg>
+                        <span class="title-font font-medium">100% Privacy protected</span>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
