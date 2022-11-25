@@ -25,7 +25,7 @@ Share your secret or text with a link
 
 ## How it works
 
-<img src='assets/howitwork.png'>
+<img src='assets/howitworks.png'>
 
 ## RA8
 
