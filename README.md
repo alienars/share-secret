@@ -6,7 +6,7 @@
   <span>SCRT | RA8</span>
   <br>
 </h1>
-<h4 align="center">Share your secret securely</h4>
+<h4 align="left">Share your secret securely</h4>
 
 <p align="justify">
 Share your secret or text with a link
@@ -15,7 +15,6 @@ Share your secret or text with a link
 ## Features
 - Your secret is encrypted with AES-256 algorithm by the password you choose 
 - Your password is hashed by PBKDF2 + salt
-- Your secret is encrypted with AES-256 algorithm
 - Completely Free Forever
 - Self-Destructs (One Time View)
 - End-To-End Encryption
